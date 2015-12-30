@@ -3,6 +3,7 @@
 # pokemiku-effector
 Effector for Pocket Miku(NSX-39)
 
+For Processing 2.xx (Processing 2.2.1 is recommended)
 
 # screen shots
 <img src="https://raw.githubusercontent.com/wiki/karaage0703/pokemiku-effector/002.png" alt="pokemiku-effector" width="745" height="600">
